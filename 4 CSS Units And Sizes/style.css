@@ -1,0 +1,30 @@
+body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #555;
+    padding: 30px;
+}
+
+.head {
+    text-align: center;
+    margin-bottom: 20px; /* px 32px */
+    font-size: 2rem;    /* rem 32px */
+}
+
+#bold {
+    font-weight: bold;
+}
+
+/*  vw = 1% of viewport width */
+
+body {
+    font-size:0.4cm;  /* 1vw = 0.4cm */
+}
+
+body {
+font-size: 90%; /* 1vw = 0.9% */
+}
