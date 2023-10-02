@@ -7,9 +7,7 @@
     <option name="groupLineBookmarks" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f11c3955-45ba-4012-8cf4-173d1bd03fea" name="Changes" comment="Hello">
-      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Hi.java" afterDir="false" />
-    </list>
+    <list default="true" id="f11c3955-45ba-4012-8cf4-173d1bd03fea" name="Changes" comment="Hello" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,7 @@
       <workItem from="1695913807231" duration="4589000" />
       <workItem from="1696160692653" duration="72000" />
       <workItem from="1696160786317" duration="10163000" />
-      <workItem from="1696284579574" duration="1578000" />
+      <workItem from="1696284579574" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="Uploading Data to Git">
       <option name="closed" value="true" />
