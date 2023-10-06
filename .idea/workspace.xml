@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/src/Array/AccessArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ModifyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Breaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/SumInWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Array And Baiscs">
+      <change afterPath="$PROJECT_DIR$/src/Array/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/StringConvertArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/Factorial_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Factorial_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/Neww.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Neww.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/PowerOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/Sum_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Sum_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/TableOfNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/TableOfNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696445929699</updated>
       <workItem from="1696445934093" duration="3287000" />
-      <workItem from="1696449298017" duration="14514000" />
+      <workItem from="1696449298017" duration="17807000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -172,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696450088268</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Array And Baiscs">
+      <option name="closed" value="true" />
+      <created>1696590007605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696590007605</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +194,7 @@
     <MESSAGE value="Switch Case Practice Questions" />
     <MESSAGE value="Switch Case Practise Questions" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Array And Baiscs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array And Baiscs" />
   </component>
 </project>
