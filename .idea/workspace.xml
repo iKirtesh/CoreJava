@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Switch Case Practise Questions" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/src/Array/AccessArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ModifyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Breaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/SumInWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/Factorial_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Factorial_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/Neww.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Neww.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/PowerOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/PowerOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/Sum_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/Sum_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_Java/Practice/TableOfNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_Java/Loop/TableOfNum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="grazie_rule" />
         <option value="Class" />
       </list>
     </option>
@@ -50,19 +65,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="main" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696445929699</updated>
       <workItem from="1696445934093" duration="3287000" />
-      <workItem from="1696449298017" duration="768000" />
+      <workItem from="1696449298017" duration="14514000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -138,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696450011619</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1696450088268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696450088268</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +194,7 @@
     <MESSAGE value="Revert &quot;Switch Case Practise Questions&quot;&#10;&#10;This reverts commit f624df42" />
     <MESSAGE value="Switch Case Practice Questions" />
     <MESSAGE value="Switch Case Practise Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch Case Practise Questions" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
