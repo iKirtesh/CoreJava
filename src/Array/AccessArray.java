@@ -13,7 +13,7 @@ public class AccessArray {
         do {
             System.out.print("Enter the index of Element (0-4) : ");
             int n = in.nextInt();
-            if(n >= 0 && n < arr.length){
+            if(n >= 0 && n <= arr.length){
                 System.out.println("Element is: " + arr[n]);
             }
             else {

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Array And Baiscs">
-      <change afterPath="$PROJECT_DIR$/src/Array/CopyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/StringConvertArray.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Array Manipulation">
+      <change afterPath="$PROJECT_DIR$/src/Mulit_Array/MultiArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/AccessArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/AccessArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
     <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
@@ -89,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696445929699</updated>
       <workItem from="1696445934093" duration="3287000" />
-      <workItem from="1696449298017" duration="17807000" />
+      <workItem from="1696449298017" duration="20967000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696590007605</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Array Manipulation">
+      <option name="closed" value="true" />
+      <created>1696615969204</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696615969205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +203,7 @@
     <MESSAGE value="Switch Case Practise Questions" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Array And Baiscs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array And Baiscs" />
+    <MESSAGE value="Array Manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array Manipulation" />
   </component>
 </project>
