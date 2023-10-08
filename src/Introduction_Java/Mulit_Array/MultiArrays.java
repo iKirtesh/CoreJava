@@ -1,4 +1,4 @@
-package Mulit_Array;
+package Introduction_Java.Mulit_Array;
 
 import java.util.Arrays;
 
