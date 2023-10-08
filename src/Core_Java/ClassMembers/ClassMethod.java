@@ -30,7 +30,7 @@ class ClassMethod {
 class Program2{
     public static void main(String[] args) {
         ClassMethod nam = new ClassMethod();
-        nam.initStudent("Kirtesh", 23);
+//        nam.initStudent("Kirtesh", 23);
 //        nam.acceptRecord();
         nam.printRecord();
     }
