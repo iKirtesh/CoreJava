@@ -21,7 +21,9 @@ public class Employee {
 
 class Main{
     public static void main(String[] args) {
-        Employee emp = new Employee("Kirtesh", 12, 25000.00F);
-        emp.printEmployee();
+//        Employee emp = new Employee("Kirtesh", 12, 25000.00F);
+        Employee emp = null;    // Null object
+        emp = new Employee("Kirtesh", 12, 25000.00F);
+        emp.printEmployee(); // NullPointerException while calling a null object without an instance
     }
 }
