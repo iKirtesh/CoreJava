@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Constructor">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Constuctor/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Constuctor/StaticField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Constuctor/StaticField.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,9 @@
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
     <branch-grouping />
@@ -255,6 +258,8 @@
     <MESSAGE value="Class members and components" />
     <MESSAGE value="Class and Object Practice Questions" />
     <MESSAGE value="Constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructor" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/iKirtesh/CoreJava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Static and getter setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static and getter setter" />
   </component>
 </project>

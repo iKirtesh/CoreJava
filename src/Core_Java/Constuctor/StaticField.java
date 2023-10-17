@@ -8,6 +8,7 @@ public class StaticField {
     public StaticField() {
         this(10, 30);
     }
+    
 
     public StaticField(int num1, int num2) {
         this.num1 = num1;
