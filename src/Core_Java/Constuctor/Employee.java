@@ -1,7 +1,7 @@
 package Core_Java.Constuctor;
 
 public class Employee {
-    private final String name;
+    String name;
     int id;
     float salary;
 

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Constructor">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Constuctor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bankers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Constuctor/GetterSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Constuctor/StaticField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Constuctor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Constuctor/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,9 @@
         <option name="url" value="https://github.com/iKirtesh/CoreJava.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -90,6 +98,10 @@
       <workItem from="1696445934093" duration="3287000" />
       <workItem from="1696449298017" duration="29746000" />
       <workItem from="1696748129086" duration="6047000" />
+      <workItem from="1697214832847" duration="445000" />
+      <workItem from="1697219690575" duration="72000" />
+      <workItem from="1697483842955" duration="4000000" />
+      <workItem from="1697562005093" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -227,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696929809809</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Constructor">
+      <option name="closed" value="true" />
+      <created>1696932317367</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696932317367</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
