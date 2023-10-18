@@ -1,4 +1,4 @@
-package Core_Java.Constuctor;
+package Core_Java.Static;
 
 public class StaticField {
     private int num1;   // Non-Static Field or Instance Field
