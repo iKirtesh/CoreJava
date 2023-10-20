@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Static and getter setter">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Singleton/Singleton.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Final Word in java">
+      <change afterPath="$PROJECT_DIR$/src/Array/DefaultArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/EmployeeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Final/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Final/FinalField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +99,8 @@
       <workItem from="1696445934093" duration="3287000" />
       <workItem from="1696449298017" duration="29746000" />
       <workItem from="1696748129086" duration="6047000" />
-      <workItem from="1697617980875" duration="7076000" />
+      <workItem from="1697617980875" duration="17646000" />
+      <workItem from="1697725087603" duration="2235000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -258,7 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697629781130</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Singleton Class">
+      <option name="closed" value="true" />
+      <created>1697659663685</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697659663685</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Final Word in java">
+      <option name="closed" value="true" />
+      <created>1697684247525</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697684247525</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +289,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -288,6 +314,8 @@
     <MESSAGE value="Constructor" />
     <MESSAGE value="Merge branch 'main' of https://github.com/iKirtesh/CoreJava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Static and getter setter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static and getter setter" />
+    <MESSAGE value="Singleton Class" />
+    <MESSAGE value="Final Word in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Word in java" />
   </component>
 </project>
