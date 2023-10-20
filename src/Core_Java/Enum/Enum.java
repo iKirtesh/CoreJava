@@ -1,10 +1,37 @@
 package Core_Java.Enum;
 
+import java.util.Scanner;
+
 enum Color {
     RED, GREEN, BLUE
 }
 public class Enum {
+
     public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter color : ");
+        String color = in.next();
+
+        do{
+            switch (color.toUpperCase()) {
+                case "RED":
+                    System.out.println("Stop");
+                    break;
+                case "GREEN":
+                    System.out.println("Go");
+                    break;
+                case "BLUE":
+                    System.out.println("Ready");
+                    break;
+                default:
+                    System.out.println("Invalid color");
+                    break;
+            }
+            System.out.print("Enter color : ");
+            color = in.next();
+        }while(!color.equalsIgnoreCase("exit"));
+    }
+    public static void main2(String[] args) {
         // Accessing enum constants
         Color c1 = Color.RED;
         Color c2 = Color.GREEN;
