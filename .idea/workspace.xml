@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Enum in java">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Enum/Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Enum/Dayss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Enum/Dayss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Enum/Dayss.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
       <workItem from="1696449298017" duration="29746000" />
       <workItem from="1696748129086" duration="6047000" />
       <workItem from="1697617980875" duration="17646000" />
-      <workItem from="1697725087603" duration="11884000" />
+      <workItem from="1697725087603" duration="12494000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -339,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697828050187</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Enum in java">
+      <option name="closed" value="true" />
+      <created>1697868807429</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1697868807429</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
