@@ -1,4 +1,4 @@
-package Core_Java.Abstraction;
+package Core_Java.Abstraction_Encapsulation;
 class Car {
     private String make;
     private String model;
