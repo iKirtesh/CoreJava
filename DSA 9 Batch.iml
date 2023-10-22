@@ -8,4 +8,13 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/src/Core_Java" />
+        <option value="$MODULE_DIR$/src/DSA" />
+        <option value="$MODULE_DIR$/src/Introduction_Java" />
+      </list>
+    </option>
+  </component>
 </module>
