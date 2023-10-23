@@ -27,13 +27,13 @@ class Employee extends Person {
         this.empId = 0;
         this.salary = 0.0f;
     }
-    public Employee(String name, int age, int empId, float salary) {
+    public Employee(int empId, float salary) {
         this.empId = empId;
         this.salary = salary;
     }
     public void displayRecord() {
-        System.out.println("Name : " + this.name);
-        System.out.println("Age :  " + this.age);
+
+        this.showRecord();
         System.out.println("EmpID : " + this.empId);
         System.out.println("Salary :  " + this.salary);
     }
@@ -42,7 +42,7 @@ class Employee extends Person {
 
 public class Program {
     public static void main(String[] args) {
-        Employee emp = new Employee("Kirtesh", 23, 128, 45000.00f);
+        Employee emp = new Employee(128, 45000.00f);
         emp.displayRecord();
     }
 }
