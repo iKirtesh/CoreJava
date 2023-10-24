@@ -26,6 +26,5 @@ public class Program {
         Student s2 = new Student(1, "Rahul");
 
         System.out.println(s1.equals(s2));  // true : s1 == s2
-
     }
 }
