@@ -1,7 +1,5 @@
 package Core_Java.MethodOverriding;
 
-import java.util.*;
-
 public class toString {
     private int real;
     private int imag;
