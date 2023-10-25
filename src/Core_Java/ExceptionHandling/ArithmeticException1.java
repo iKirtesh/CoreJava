@@ -3,7 +3,10 @@ package Core_Java.ExceptionHandling;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ArithmeticExceptionQ {
+public class ArithmeticException1 {
+
+
+
     public static void main(String[] args) {
 
         Scanner  in = new Scanner(System.in);
@@ -16,9 +19,7 @@ public class ArithmeticExceptionQ {
 
             int result = num1 / num2;
             System.out.println("Result: " + result);
-        } catch (ArithmeticException e) {
-            System.out.println("Exception: " + e.getMessage());
-        } catch (InputMismatchException e) {
+        } catch (ArithmeticException | InputMismatchException e) { // Multi-catch or pipe operator (|) is used to catch multiple exceptions
             System.out.println("Exception: " + e.getMessage());
         }
 
