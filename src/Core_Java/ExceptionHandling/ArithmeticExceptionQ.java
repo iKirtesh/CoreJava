@@ -11,13 +11,13 @@ public class ArithmeticExceptionQ {
         System.out.print("Enter another number: ");
         int num2 = in.nextInt();
 
-        if (num2 == 0) {
-            System.out.println("Cannot divide by zero");
-            System.exit(0);
+        try {
+            int result = num1 / num2;
+            System.out.println("Result: " + result);
+        } catch (ArithmeticException e) {
+            System.out.println("Exception: " + e.getMessage());
         }
 
-        int result = num1 / num2;
-        System.out.println("Result: " + result);
         in.close();
         System.out.println("Resource is released / deallocated");
     }
