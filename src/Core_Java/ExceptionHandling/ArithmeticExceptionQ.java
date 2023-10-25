@@ -1,5 +1,6 @@
 package Core_Java.ExceptionHandling;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ArithmeticExceptionQ {

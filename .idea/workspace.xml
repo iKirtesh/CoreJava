@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Exception Handling">
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="try catch block in Exception Handling (Java)">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ArithmeticExceptionQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ArithmeticExceptionQ.java" afterDir="false" />
     </list>
@@ -96,6 +97,26 @@
       <command value="main" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="ArithmeticExceptionQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Core_Java.ExceptionHandling.ArithmeticExceptionQ" />
+      <module name="DSA 9 Batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Core_Java.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArithmeticExceptionQ" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,7 +130,8 @@
       <workItem from="1696748129086" duration="6047000" />
       <workItem from="1697617980875" duration="17646000" />
       <workItem from="1697725087603" duration="45918000" />
-      <workItem from="1698233995310" duration="948000" />
+      <workItem from="1698233995310" duration="1211000" />
+      <workItem from="1698269007206" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="if Else Problems">
       <option name="closed" value="true" />
@@ -463,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698230240339</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="try catch block in Exception Handling (Java)">
+      <option name="closed" value="true" />
+      <created>1698234982927</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1698234982927</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revert &quot;Switch Case Practise Questions&quot;&#10;&#10;This reverts commit f624df42" />
     <MESSAGE value="Switch Case Practice Questions" />
     <MESSAGE value="Switch Case Practise Questions" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
@@ -512,6 +541,7 @@
     <MESSAGE value="Operator == and equals method and Method Overriding in java" />
     <MESSAGE value="abstract and final class and method in java" />
     <MESSAGE value="Exception Handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling" />
+    <MESSAGE value="try catch block in Exception Handling (Java)" />
+    <option name="LAST_COMMIT_MESSAGE" value="try catch block in Exception Handling (Java)" />
   </component>
 </project>
