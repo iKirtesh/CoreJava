@@ -13,7 +13,7 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 - :heavy_check_mark: Variables and Data Types
 - :heavy_check_mark: Control Flow (if, switch, loops)
 - :heavy_check_mark: Object-Oriented Programming (Classes, Objects, Inheritance)
-- [ ] Exception Handling
+- :heavy_check_mark: Exception Handling
 - [ ] File Handling
 - [ ] Collections (Lists, Sets, Maps)
 - [ ] Multithreading
