@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="try catch block in Exception Handling (Java)">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/finallytryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/tryBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/SingletonClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +86,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Core_Java.ExceptionHandling" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programming\Java Full Stack Development\Course Learning\JDK\src\Core_Java\Enum" />
     </key>
@@ -97,7 +98,7 @@
       <command value="main" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArithmeticException2">
+  <component name="RunManager">
     <configuration name="ArithmeticException1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Core_Java.ExceptionHandling.ArithmeticException1" />
       <module name="DSA 9 Batch" />
@@ -145,15 +146,7 @@
       <workItem from="1697617980875" duration="17646000" />
       <workItem from="1697725087603" duration="45918000" />
       <workItem from="1698233995310" duration="1211000" />
-      <workItem from="1698269007206" duration="4869000" />
-    </task>
-    <task id="LOCAL-00001" summary="if Else Problems">
-      <option name="closed" value="true" />
-      <created>1696446509864</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1696446509864</updated>
+      <workItem from="1698269007206" duration="12177000" />
     </task>
     <task id="LOCAL-00002" summary="Switch Case Practise Questions">
       <option name="closed" value="true" />
@@ -531,7 +524,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698272860080</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="try catch block in Exception Handling (Java)">
+      <option name="closed" value="true" />
+      <created>1698298466275</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1698298466276</updated>
+    </task>
+    <task id="LOCAL-00050" summary="try catch block in Exception Handling (Java)">
+      <option name="closed" value="true" />
+      <created>1698324810953</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1698324810965</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
