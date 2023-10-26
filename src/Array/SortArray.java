@@ -6,6 +6,7 @@ public class SortArray {
     public static void main(String[] args) {
         int[] arr = {1, 67, 89, 34, 89, 90};
 
+        System.out.println(Arrays.toString(arr));
         Arrays.sort(arr);
         System.out.println("Sorted Array Are: ");
         for (int num : arr){
