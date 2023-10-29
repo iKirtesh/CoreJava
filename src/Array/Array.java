@@ -15,7 +15,6 @@ public class Array {
         for (i = 0; i < arr.length; i++) {
             arr[i] = in.nextInt();
         }
-
         // this is a short way to print an array
         for (int j : arr) {
             System.out.print(j + " ");
