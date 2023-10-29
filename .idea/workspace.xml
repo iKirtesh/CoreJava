@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Design Patterns">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="array">
       <change beforePath="$PROJECT_DIR$/src/Array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,15 +152,7 @@
       <workItem from="1697725087603" duration="45918000" />
       <workItem from="1698233995310" duration="1211000" />
       <workItem from="1698269007206" duration="13032000" />
-      <workItem from="1698510729701" duration="155000" />
-    </task>
-    <task id="LOCAL-00003" summary="Switch Case Practice Questions">
-      <option name="closed" value="true" />
-      <created>1696449348670</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1696449348670</updated>
+      <workItem from="1698510729701" duration="896000" />
     </task>
     <task id="LOCAL-00004" summary="Switch Case Practice Questions">
       <option name="closed" value="true" />
@@ -547,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698324832451</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="array">
+      <option name="closed" value="true" />
+      <created>1698510900362</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1698510900362</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Switch Case Practise Questions" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Array And Baiscs" />
     <MESSAGE value="Array Manipulation" />
@@ -596,6 +594,7 @@
     <MESSAGE value="Exception Handling" />
     <MESSAGE value="try catch block in Exception Handling (Java)" />
     <MESSAGE value="Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design Patterns" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
 </project>
