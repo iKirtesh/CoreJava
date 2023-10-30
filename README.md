@@ -9,37 +9,37 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 
 ### Java Core
 
-- :heavy_check_mark: Basic Java Syntax
-- :heavy_check_mark: Variables and Data Types
-- :heavy_check_mark: Control Flow (if, switch, loops)
-- :heavy_check_mark: Object-Oriented Programming (Classes, Objects, Inheritance)
-- :heavy_check_mark: Exception Handling
-- [ ] File Handling
-- [ ] Collections (Lists, Sets, Maps)
-- [ ] Multithreading
-- [ ] Java 8 Features (Lambda Expressions, Streams)
+- ✅ Basic Java Syntax
+- ✅ Variables and Data Types
+- ✅ Control Flow (if, switch, loops)
+- ✅ Object-Oriented Programming (Classes, Objects, Inheritance)
+- ✅ Exception Handling
+- ❎ File Handling
+- ❎ Collections (Lists, Sets, Maps)
+- ❎ Multithreading
+- ❎ Java 8 Features (Lambda Expressions, Streams)
 
 ### Data Structures & Algorithms (DSA)
 
-- :heavy_check_mark: Arrays and Strings
-- [ ] Linked Lists
-- [ ] Stacks and Queues
-- :heavy_check_mark: Trees (Binary Trees, Binary Search Trees)
-- [ ] Graphs
-- [ ] Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort)
-- [ ] Searching Algorithms (Linear Search, Binary Search)
-- [ ] Recursion
-- [ ] Dynamic Programming
-- [ ] Big O Notation
+- ✅ Arrays and Strings
+- ❎ Linked Lists
+- ❎ Stacks and Queues
+- ✅ Trees (Binary Trees, Binary Search Trees)
+- ❎ Graphs
+- ❎ Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort)
+- ❎ Searching Algorithms (Linear Search, Binary Search)
+- ❎ Recursion
+- ❎ Dynamic Programming
+- ❎ Big O Notation
 
 
 ## My Progress
 
-- [x] Completed Java Core basics.
-- [ ] Currently working on advanced Java topics.
-- [x] Learned basic data structures (Arrays, Linked Lists).
-- [ ] Studying trees and graph algorithms.
-- [ ] Practicing coding problems regularly.
+- ✅ Completed Java Core basics.
+- ❎ Currently working on advanced Java topics.
+- ✅ Learned basic data structures (Arrays, Linked Lists).
+- ❎ Studying trees and graph algorithms.
+- ❎ Practicing coding problems regularly.
 
 ## Additional Information
 
