@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Singleton Class in Design Patterns" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/AndroidDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/WebDev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,15 +189,7 @@
       <workItem from="1698697068964" duration="314000" />
       <workItem from="1698768165746" duration="1227000" />
       <workItem from="1698993292629" duration="171000" />
-      <workItem from="1699076292825" duration="722000" />
-    </task>
-    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1696450088268</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1696450088268</updated>
+      <workItem from="1699076292825" duration="3628000" />
     </task>
     <task id="LOCAL-00010" summary="Array And Baiscs">
       <option name="closed" value="true" />
@@ -576,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699077003908</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="fixup! Singleton Class in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699077067351</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1699077067351</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -626,7 +633,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array And Baiscs" />
     <MESSAGE value="Array Manipulation" />
     <MESSAGE value="Class members and components" />
     <MESSAGE value="Class and Object Practice Questions" />
@@ -651,7 +657,8 @@
     <MESSAGE value="Design Patterns" />
     <MESSAGE value="array" />
     <MESSAGE value="Singleton Class in Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton Class in Design Patterns" />
+    <MESSAGE value="fixup! Singleton Class in Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! Singleton Class in Design Patterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
