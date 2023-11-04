@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Singleton/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/SingletonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Singleton/MainClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Singleton Class in Design Patterns" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,15 +182,7 @@
       <workItem from="1698697068964" duration="314000" />
       <workItem from="1698768165746" duration="1227000" />
       <workItem from="1698993292629" duration="171000" />
-      <workItem from="1699076292825" duration="633000" />
-    </task>
-    <task id="LOCAL-00008" summary="Switch Case Practise Questions">
-      <option name="closed" value="true" />
-      <created>1696450011619</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1696450011619</updated>
+      <workItem from="1699076292825" duration="722000" />
     </task>
     <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
       <option name="closed" value="true" />
@@ -580,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698768172412</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Singleton Class in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699077003906</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1699077003908</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +626,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Array And Baiscs" />
     <MESSAGE value="Array Manipulation" />
     <MESSAGE value="Class members and components" />
@@ -655,7 +650,8 @@
     <MESSAGE value="try catch block in Exception Handling (Java)" />
     <MESSAGE value="Design Patterns" />
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="Singleton Class in Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton Class in Design Patterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
