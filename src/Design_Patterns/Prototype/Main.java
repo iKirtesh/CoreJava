@@ -49,11 +49,9 @@ public class Main {
         connection.loadVeryImportantData();
         System.out.println(connection);
 
-        System.out.println("Create object using clone prototype");
         NetworkConnection connection2 = connection.clone();
         System.out.println(connection2);
 
-        System.out.println("Create object using clone prototype");
         NetworkConnection connection3 = connection.clone();
         System.out.println(connection3);
     }
