@@ -9,6 +9,5 @@ public class Main {
         Employee emp2 = EmployeeFactory.getEmployee("WebDev");
         assert emp2 != null;
         System.out.println("WebDev salary : " + emp2.salary());
-
     }
 }
