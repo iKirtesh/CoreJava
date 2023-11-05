@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Adapter Pattern in Design Patterns">
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,15 +130,7 @@
       <workItem from="1698993292629" duration="171000" />
       <workItem from="1699076292825" duration="4282000" />
       <workItem from="1699116304203" duration="17164000" />
-      <workItem from="1699210552698" duration="1847000" />
-    </task>
-    <task id="LOCAL-00019" summary="Static and getter setter">
-      <option name="closed" value="true" />
-      <created>1697623142205</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1697623142205</updated>
+      <workItem from="1699210552698" duration="4278000" />
     </task>
     <task id="LOCAL-00020" summary="Static and getter setter">
       <option name="closed" value="true" />
@@ -522,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699213136622</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Adapter Pattern in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699213143604</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1699213143604</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
