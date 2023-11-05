@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Abstract Factory class in Design Patterns">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Builder/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Prototype in Design Patterns">
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,23 +154,7 @@
       <workItem from="1698768165746" duration="1227000" />
       <workItem from="1698993292629" duration="171000" />
       <workItem from="1699076292825" duration="4282000" />
-      <workItem from="1699116304203" duration="8374000" />
-    </task>
-    <task id="LOCAL-00012" summary="Array Manipulation">
-      <option name="closed" value="true" />
-      <created>1696674031633</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1696674031633</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Class members and components">
-      <option name="closed" value="true" />
-      <created>1696748180878</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1696748180878</updated>
+      <workItem from="1699116304203" duration="8579000" />
     </task>
     <task id="LOCAL-00014" summary="Class and Object Practice Questions">
       <option name="closed" value="true" />
@@ -550,7 +532,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699156774593</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Builder in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699180870653</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1699180870654</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Prototype in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699180885924</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1699180885924</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,8 +598,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class and Object Practice Questions" />
-    <MESSAGE value="Constructor" />
     <MESSAGE value="Merge branch 'main' of https://github.com/iKirtesh/CoreJava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Static and getter setter" />
     <MESSAGE value="Singleton Class" />
@@ -625,7 +621,9 @@
     <MESSAGE value="fixup! Singleton Class in Design Patterns" />
     <MESSAGE value="Factory Method class in Design Patterns" />
     <MESSAGE value="Abstract Factory class in Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory class in Design Patterns" />
+    <MESSAGE value="Builder in Design Patterns" />
+    <MESSAGE value="Prototype in Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prototype in Design Patterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
