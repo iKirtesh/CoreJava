@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Factory Method class in Design Patterns">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/AbstractFactory/Main.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Abstract Factory class in Design Patterns">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Builder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
       <list>
         <option value="grazie_rule" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -157,15 +156,7 @@
       <workItem from="1698768165746" duration="1227000" />
       <workItem from="1698993292629" duration="171000" />
       <workItem from="1699076292825" duration="4282000" />
-      <workItem from="1699116304203" duration="2997000" />
-    </task>
-    <task id="LOCAL-00011" summary="Array Manipulation">
-      <option name="closed" value="true" />
-      <created>1696615969204</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1696615969205</updated>
+      <workItem from="1699116304203" duration="8374000" />
     </task>
     <task id="LOCAL-00012" summary="Array Manipulation">
       <option name="closed" value="true" />
@@ -551,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699079966980</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Abstract Factory class in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699156774592</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1699156774593</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Class members and components" />
     <MESSAGE value="Class and Object Practice Questions" />
     <MESSAGE value="Constructor" />
     <MESSAGE value="Merge branch 'main' of https://github.com/iKirtesh/CoreJava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -626,7 +624,8 @@
     <MESSAGE value="Singleton Class in Design Patterns" />
     <MESSAGE value="fixup! Singleton Class in Design Patterns" />
     <MESSAGE value="Factory Method class in Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factory Method class in Design Patterns" />
+    <MESSAGE value="Abstract Factory class in Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory class in Design Patterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
