@@ -1,4 +1,4 @@
-package Design_Patterns.FactoryMethod;
+package Design_Patterns.Creational_Patterns.FactoryMethod;
 
 public class WebDev implements Employee {
     public int salary() {

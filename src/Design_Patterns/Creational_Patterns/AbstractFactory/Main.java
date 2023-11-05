@@ -1,4 +1,4 @@
-package Design_Patterns.AbstractFactory;
+package Design_Patterns.Creational_Patterns.AbstractFactory;
 
 interface Employee {
     int salary();

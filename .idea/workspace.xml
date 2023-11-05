@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Prototype in Design Patterns">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Multiton/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/AbstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/AbstractFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Builder/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Builder/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/AndroidDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/AndroidDev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/EmployeeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/WebDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/WebDev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Prototype/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Singleton/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Singleton/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Singleton/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Singleton/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,15 +165,7 @@
       <workItem from="1698768165746" duration="1227000" />
       <workItem from="1698993292629" duration="171000" />
       <workItem from="1699076292825" duration="4282000" />
-      <workItem from="1699116304203" duration="11149000" />
-    </task>
-    <task id="LOCAL-00015" summary="Constructor">
-      <option name="closed" value="true" />
-      <created>1696856230737</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1696856230737</updated>
+      <workItem from="1699116304203" duration="12028000" />
     </task>
     <task id="LOCAL-00016" summary="Constructor">
       <option name="closed" value="true" />
@@ -549,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699181022370</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Prototype in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699185586272</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1699185586276</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

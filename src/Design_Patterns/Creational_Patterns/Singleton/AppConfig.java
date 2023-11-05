@@ -1,4 +1,4 @@
-package Design_Patterns.Singleton;
+package Design_Patterns.Creational_Patterns.Singleton;
 
 public class AppConfig {
     private AppConfig() {

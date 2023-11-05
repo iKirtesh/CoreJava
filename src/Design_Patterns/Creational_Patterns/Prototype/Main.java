@@ -1,4 +1,4 @@
-package Design_Patterns.Prototype;
+package Design_Patterns.Creational_Patterns.Prototype;
 
 class NetworkConnection implements Cloneable{
     private String ip;
