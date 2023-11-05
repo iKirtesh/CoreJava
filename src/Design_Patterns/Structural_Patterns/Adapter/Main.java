@@ -12,7 +12,6 @@ class ChargerABC implements AndroidCharger {
     }
 }
 
-
 interface AppleCharger {
     void chargePhone();
 }

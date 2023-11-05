@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Multition Pattern in Design Patterns">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Adapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Adapter Pattern in Design Patterns">
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Adapter/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,15 +128,7 @@
       <workItem from="1698993292629" duration="171000" />
       <workItem from="1699076292825" duration="4282000" />
       <workItem from="1699116304203" duration="17164000" />
-      <workItem from="1699210552698" duration="1827000" />
-    </task>
-    <task id="LOCAL-00018" summary="Static and getter setter">
-      <option name="closed" value="true" />
-      <created>1697563922322</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1697563922322</updated>
+      <workItem from="1699210552698" duration="1847000" />
     </task>
     <task id="LOCAL-00019" summary="Static and getter setter">
       <option name="closed" value="true" />
@@ -525,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699186609012</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Adapter Pattern in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699213136621</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1699213136622</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Singleton Class" />
     <MESSAGE value="Final Word in java" />
     <MESSAGE value="Final Word and reference array &amp; instance array" />
     <MESSAGE value="Date" />
@@ -600,7 +596,8 @@
     <MESSAGE value="Prototype in Design Patterns" />
     <MESSAGE value="Moved files /folders to Creational Patterns Folder in Design Patterns" />
     <MESSAGE value="Multition Pattern in Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multition Pattern in Design Patterns" />
+    <MESSAGE value="Adapter Pattern in Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adapter Pattern in Design Patterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
