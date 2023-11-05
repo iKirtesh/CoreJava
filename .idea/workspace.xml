@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Prototype in Design Patterns">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Multiton/Program.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Multition Pattern in Design Patterns">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Adapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/AbstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/AbstractFactory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Builder/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Builder/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/AndroidDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/AndroidDev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/EmployeeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/EmployeeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/FactoryMethod/WebDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/FactoryMethod/WebDev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Prototype/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Singleton/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Singleton/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Singleton/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Creational_Patterns/Singleton/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +79,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Programming/Java Full Stack Development/Course Learning/JDK/src/Core_Java/Enum",
@@ -115,34 +108,6 @@
       <command value="main" />
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ArithmeticException1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Core_Java.ExceptionHandling.ArithmeticException1" />
-      <module name="DSA 9 Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Core_Java.ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArithmeticException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Core_Java.ExceptionHandling.ArithmeticException2" />
-      <module name="DSA 9 Batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Core_Java.ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -165,23 +130,8 @@
       <workItem from="1698768165746" duration="1227000" />
       <workItem from="1698993292629" duration="171000" />
       <workItem from="1699076292825" duration="4282000" />
-      <workItem from="1699116304203" duration="12028000" />
-    </task>
-    <task id="LOCAL-00016" summary="Constructor">
-      <option name="closed" value="true" />
-      <created>1696858069386</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1696858069386</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Constructor">
-      <option name="closed" value="true" />
-      <created>1696929809809</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1696929809809</updated>
+      <workItem from="1699116304203" duration="17164000" />
+      <workItem from="1699210552698" duration="1827000" />
     </task>
     <task id="LOCAL-00018" summary="Static and getter setter">
       <option name="closed" value="true" />
@@ -559,7 +509,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699185586276</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Moved files /folders to Creational Patterns Folder in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699186584302</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1699186584303</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Multition Pattern in Design Patterns">
+      <option name="closed" value="true" />
+      <created>1699186609012</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1699186609012</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,8 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge branch 'main' of https://github.com/iKirtesh/CoreJava&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <MESSAGE value="Static and getter setter" />
     <MESSAGE value="Singleton Class" />
     <MESSAGE value="Final Word in java" />
     <MESSAGE value="Final Word and reference array &amp; instance array" />
@@ -634,7 +598,9 @@
     <MESSAGE value="Abstract Factory class in Design Patterns" />
     <MESSAGE value="Builder in Design Patterns" />
     <MESSAGE value="Prototype in Design Patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prototype in Design Patterns" />
+    <MESSAGE value="Moved files /folders to Creational Patterns Folder in Design Patterns" />
+    <MESSAGE value="Multition Pattern in Design Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multition Pattern in Design Patterns" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
