@@ -1,10 +1,11 @@
-package Core_Java.Collections.ListInterface;
+package Core_Java.Collections;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class AddRemove {
     public static void main(String[] args) {
-        List<String> list = new java.util.ArrayList<>();
+        List<String> list = new ArrayList<>();
         list.add("Java");
         list.add("Python");
         list.add("C++");
@@ -44,17 +45,17 @@ public class AddRemove {
         // get the size of the list
         System.out.println(list.size()); // 1
 
-        // convert list to array
+        // convert a list to array
         Object[] objectArray = list.toArray();
         System.out.println(java.util.Arrays.toString(objectArray)); // [Python]
 
-        // convert list to array
+        // convert a list to array
         String[] stringArray = list.toArray(new String[0]);
 
-        // convert list to string
+        // convert a list to string
         System.out.println(list.toString()); // [Python]
 
-        // convert list to string
+        // convert a list to string
         System.out.println(list); // [Python]
 
     }
