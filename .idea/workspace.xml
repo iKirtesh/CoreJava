@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Changes in Folders">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/CollectionSort.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Introduction to Collection Framework">
       <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/AddRemove.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/PositionalAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ObjectArrayClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,15 +133,7 @@
       <workItem from="1699210552698" duration="7668000" />
       <workItem from="1699430895833" duration="3399000" />
       <workItem from="1699537599470" duration="3742000" />
-      <workItem from="1699623091054" duration="8188000" />
-    </task>
-    <task id="LOCAL-00024" summary="Date">
-      <option name="closed" value="true" />
-      <created>1697797627207</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1697797627207</updated>
+      <workItem from="1699623091054" duration="8251000" />
     </task>
     <task id="LOCAL-00025" summary="Array">
       <option name="closed" value="true" />
@@ -529,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699624827944</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Introduction to Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699679567533</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1699679567533</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Date" />
     <MESSAGE value="Array" />
     <MESSAGE value="Enum in java" />
     <MESSAGE value="Abstraction in OPPs Java" />
@@ -604,7 +601,8 @@
     <MESSAGE value="README.md Updated" />
     <MESSAGE value="Adapter Pattern in Design Patterns" />
     <MESSAGE value="Changes in Folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in Folders" />
+    <MESSAGE value="Introduction to Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Collection Framework" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
