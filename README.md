@@ -30,7 +30,7 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 - ✅ Object-Oriented Programming (Classes, Objects, Inheritance)
 - ✅ Exception Handling
 - ✅ File Handling 
-- ❎ Collections (Lists, Sets, Maps)
+- ✅ Collections (Lists, Sets, Maps)
 - ❎ Multithreading
 - ❎ Java 8 Features (Lambda Expressions, Streams)
 - ❎ Java 9 Features (Modules, JShell)
