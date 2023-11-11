@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/IterationList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/SubListOperations.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="List Interface in Collection Framework">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayListConstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/AddRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/AddRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/PositionalAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/PositionalAccess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,31 +68,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java Full Stack Development/Course Learning/JDK/src/Core_Java/Enum&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "Cherry-picking in main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Programming/Java Full Stack Development/Course Learning/JDK/src/Core_Java/Enum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Core_Java.ExceptionHandling" />
@@ -138,15 +133,7 @@
       <workItem from="1699430895833" duration="3399000" />
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
-      <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00026" summary="Enum in java">
-      <option name="closed" value="true" />
-      <created>1697823864849</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1697823864849</updated>
+      <workItem from="1699703355187" duration="4750000" />
     </task>
     <task id="LOCAL-00027" summary="Enum in java">
       <option name="closed" value="true" />
@@ -532,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699679631607</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="List Interface in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699713432416</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1699713432417</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,9 +560,9 @@
             <State>
               <option name="COLUMN_ID_WIDTH">
                 <map>
-                  <entry key="Table.Default.Author.ColumnIdWidth" value="157" />
-                  <entry key="Table.Default.Date.ColumnIdWidth" value="167" />
-                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="89" />
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="97" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="96" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="72" />
                 </map>
               </option>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
@@ -582,7 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Enum in java" />
     <MESSAGE value="Abstraction in OPPs Java" />
     <MESSAGE value="Association in Java" />
     <MESSAGE value="Inheritance in Java" />
@@ -607,7 +601,8 @@
     <MESSAGE value="Changes in Folders" />
     <MESSAGE value="Introduction to Collection Framework" />
     <MESSAGE value="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element" />
-    <option name="LAST_COMMIT_MESSAGE" value="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element" />
+    <MESSAGE value="List Interface in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="List Interface in Collection Framework" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
