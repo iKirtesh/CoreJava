@@ -1,4 +1,4 @@
-package Core_Java.Collections.ListInterface.Stack;
+package Core_Java.CollectionsFramework.Collection.ListInterface.Stack;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package Core_Java.Collections;
+package Core_Java.CollectionsFramework.Collection;
 
 import java.util.Arrays;
 

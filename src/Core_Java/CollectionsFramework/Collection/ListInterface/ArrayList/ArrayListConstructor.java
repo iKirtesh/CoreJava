@@ -1,4 +1,4 @@
-package Core_Java.Collections.ListInterface.ArrayList;
+package Core_Java.CollectionsFramework.Collection.ListInterface.ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

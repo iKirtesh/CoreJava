@@ -1,4 +1,4 @@
-package Core_Java.Collections.ListInterface.Vector;
+package Core_Java.CollectionsFramework.Collection.ListInterface.Vector;
 
 import java.util.Enumeration;
 import java.util.Vector;

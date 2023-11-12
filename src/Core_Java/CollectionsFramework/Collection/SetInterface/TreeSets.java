@@ -1,4 +1,4 @@
-package Core_Java.Collections.SetInterface;
+package Core_Java.CollectionsFramework.Collection.SetInterface;
 
 import java.util.*;
 

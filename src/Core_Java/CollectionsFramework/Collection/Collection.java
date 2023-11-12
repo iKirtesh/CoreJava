@@ -1,4 +1,4 @@
-package Core_Java.Collections;
+package Core_Java.CollectionsFramework.Collection;
 
 public class Collection {
     public static void main(String[] args) {

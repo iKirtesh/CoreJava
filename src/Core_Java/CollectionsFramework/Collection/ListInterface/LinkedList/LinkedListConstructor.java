@@ -1,4 +1,4 @@
-package Core_Java.Collections.ListInterface.LinkedList;
+package Core_Java.CollectionsFramework.Collection.ListInterface.LinkedList;
 
 import java.util.Arrays;
 import java.util.LinkedList;

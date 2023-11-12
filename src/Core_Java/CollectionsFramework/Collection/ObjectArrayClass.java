@@ -1,6 +1,4 @@
-package Core_Java.Collections;
-
-import java.util.Objects;
+package Core_Java.CollectionsFramework.Collection;
 
 public class ObjectArrayClass {
     public static void main(String[] args) {
