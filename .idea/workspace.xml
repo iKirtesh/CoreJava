@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="LinkedList in Collection Framework">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/Stack/StackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/Vector/Vectors.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Vector and Stack in Collection Framework">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/DemoStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/HashSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/LinkedHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/TreeSets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,14 +137,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00028" summary="Enum in java">
-      <option name="closed" value="true" />
-      <created>1697827787980</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1697827787980</updated>
     </task>
     <task id="LOCAL-00029" summary="Enum in java">
       <option name="closed" value="true" />
@@ -528,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699754153178</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Vector and Stack in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699757531249</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1699757531250</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Association in Java" />
     <MESSAGE value="Inheritance in Java" />
     <MESSAGE value="Composition in Java" />
     <MESSAGE value="Method Overriding in java" />
@@ -603,7 +604,16 @@
     <MESSAGE value="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element" />
     <MESSAGE value="ArrayList's Files Moved to ArrayList Folder in Collection Framework" />
     <MESSAGE value="LinkedList in Collection Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList in Collection Framework" />
+    <MESSAGE value="Vector and Stack in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vector and Stack in Collection Framework" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
