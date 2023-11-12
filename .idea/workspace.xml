@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/IterationList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/SubListOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayList/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/LinkedList/LinkedListConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/LinkedList/LinkedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/AddRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/AddRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/PositionalAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/PositionalAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayListConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayList/ArrayListConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayList/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/IterationList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayList/IterationList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/RetainAllMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayList/RetainAllMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/SubListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/ListInterface/ArrayList/SubListOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
