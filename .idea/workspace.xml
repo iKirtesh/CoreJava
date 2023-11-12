@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Changes files in Collection Framework">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/Maps.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Map in Collection Framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA 9 Batch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java &amp; DSA.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +106,21 @@
       <command value="main" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Core Java &amp; DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Core Java &amp; DSA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,14 +149,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00032" summary="Abstraction in OPPs Java">
-      <option name="closed" value="true" />
-      <created>1697871304038</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1697871304039</updated>
     </task>
     <task id="LOCAL-00033" summary="Association in Java">
       <option name="closed" value="true" />
@@ -527,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699790465294</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Map in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699790585544</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1699790585544</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +592,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Method Overriding in java" />
     <MESSAGE value="Operator == and equals method and Method Overriding in java" />
     <MESSAGE value="abstract and final class and method in java" />
     <MESSAGE value="Exception Handling" />
@@ -602,7 +616,8 @@
     <MESSAGE value="Vector and Stack in Collection Framework" />
     <MESSAGE value="Set Interface in Collection Framework" />
     <MESSAGE value="Changes files in Collection Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes files in Collection Framework" />
+    <MESSAGE value="Map in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map in Collection Framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
