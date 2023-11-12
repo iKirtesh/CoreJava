@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Map in Collection Framework">
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="File names change">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/ConcurrentHashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/HashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/IdentityHashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/LinkedHashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/TreeMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/WeakHashMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA 9 Batch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java &amp; DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/Maps.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,14 +156,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00033" summary="Association in Java">
-      <option name="closed" value="true" />
-      <created>1697896726541</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1697896726541</updated>
     </task>
     <task id="LOCAL-00034" summary="Association in Java">
       <option name="closed" value="true" />
@@ -542,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699790585544</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="File names change">
+      <option name="closed" value="true" />
+      <created>1699790957595</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1699790957595</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Operator == and equals method and Method Overriding in java" />
     <MESSAGE value="abstract and final class and method in java" />
     <MESSAGE value="Exception Handling" />
     <MESSAGE value="try catch block in Exception Handling (Java)" />
@@ -617,7 +623,8 @@
     <MESSAGE value="Set Interface in Collection Framework" />
     <MESSAGE value="Changes files in Collection Framework" />
     <MESSAGE value="Map in Collection Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map in Collection Framework" />
+    <MESSAGE value="File names change" />
+    <option name="LAST_COMMIT_MESSAGE" value="File names change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
