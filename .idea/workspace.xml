@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Vector and Stack in Collection Framework">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/DemoStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/HashSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/LinkedHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/TreeSets.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Set Interface in Collection Framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/TreeSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Collections/SetInterface/TreeSets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,14 +134,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00029" summary="Enum in java">
-      <option name="closed" value="true" />
-      <created>1697828050187</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1697828050187</updated>
     </task>
     <task id="LOCAL-00030" summary="Enum in java">
       <option name="closed" value="true" />
@@ -530,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699757531250</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Set Interface in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699787360332</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1699787360333</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inheritance in Java" />
     <MESSAGE value="Composition in Java" />
     <MESSAGE value="Method Overriding in java" />
     <MESSAGE value="Operator == and equals method and Method Overriding in java" />
@@ -605,7 +601,8 @@
     <MESSAGE value="ArrayList's Files Moved to ArrayList Folder in Collection Framework" />
     <MESSAGE value="LinkedList in Collection Framework" />
     <MESSAGE value="Vector and Stack in Collection Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vector and Stack in Collection Framework" />
+    <MESSAGE value="Set Interface in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Interface in Collection Framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
