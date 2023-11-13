@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Queue Interface Classes in Collection Framework">
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionSorting/CollectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Properties/PropertiesClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Properties/PropertiesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="*Properties Class in Collection Framework">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionSorting/CollectionClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,14 +151,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00037" summary="Composition in Java">
-      <option name="closed" value="true" />
-      <created>1698039158166</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1698039158166</updated>
     </task>
     <task id="LOCAL-00038" summary="Method Overriding in java">
       <option name="closed" value="true" />
@@ -548,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699862685923</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="*Properties Class in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699886507881</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1699886507882</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +595,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="try catch block in Exception Handling (Java)" />
     <MESSAGE value="Design Patterns" />
     <MESSAGE value="array" />
     <MESSAGE value="Singleton Class in Design Patterns" />
@@ -624,7 +619,8 @@
     <MESSAGE value="File names change" />
     <MESSAGE value="Map Classes in Collection Framework" />
     <MESSAGE value="Queue Interface Classes in Collection Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue Interface Classes in Collection Framework" />
+    <MESSAGE value="*Properties Class in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="*Properties Class in Collection Framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
