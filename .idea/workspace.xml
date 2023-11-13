@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Collections Class in Collection Framework">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionsClass/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionsClass/StudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Packages/BreakIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Packages/StringTokenize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionSorting/CollectionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionsClass/CollectionClassExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,14 +157,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00039" summary="Method Overriding in java">
-      <option name="closed" value="true" />
-      <created>1698142977147</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1698142977147</updated>
     </task>
     <task id="LOCAL-00040" summary="Method Overriding in java">
       <option name="closed" value="true" />
@@ -550,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699886636599</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Collections Class in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699891391640</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1699891391640</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
