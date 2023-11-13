@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Map Classes in Collection Framework">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/ArraysQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/Dqueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/LinkedBlockingQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/PrioritysQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/SynchronousQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/DemoStudent.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Queue Interface Classes in Collection Framework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/ArraysQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/ArraysQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/Dqueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/Dqueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/LinkedBlockingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/LinkedBlockingQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/PrioritysQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/PrioritysQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/SynchronousQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/SynchronousQueues.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,14 +157,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00035" summary="Inheritance in Java">
-      <option name="closed" value="true" />
-      <created>1697968834864</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1697968834865</updated>
     </task>
     <task id="LOCAL-00036" summary="Inheritance in Java">
       <option name="closed" value="true" />
@@ -551,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699810807058</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Queue Interface Classes in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699855754395</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1699855754395</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exception Handling" />
     <MESSAGE value="try catch block in Exception Handling (Java)" />
     <MESSAGE value="Design Patterns" />
     <MESSAGE value="array" />
@@ -626,7 +624,8 @@
     <MESSAGE value="Map in Collection Framework" />
     <MESSAGE value="File names change" />
     <MESSAGE value="Map Classes in Collection Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map Classes in Collection Framework" />
+    <MESSAGE value="Queue Interface Classes in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue Interface Classes in Collection Framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

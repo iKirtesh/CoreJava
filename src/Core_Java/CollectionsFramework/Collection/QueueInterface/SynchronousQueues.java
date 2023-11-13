@@ -1,4 +1,4 @@
-package Core_Java.CollectionsFramework.Collection.Queue;
+package Core_Java.CollectionsFramework.Collection.QueueInterface;
 
 import java.util.concurrent.SynchronousQueue;
 
