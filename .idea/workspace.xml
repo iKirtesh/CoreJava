@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="File names change">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/ConcurrentHashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/HashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/IdentityHashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/LinkedHashMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/TreeMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/WeakHashMaps.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Map Classes in Collection Framework">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/ArraysQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/Dqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/LinkedBlockingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/PrioritysQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Queue/SynchronousQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/DemoStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/Maps.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2WJLqHSmt7idBORZ6I47k6EQIXi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -156,14 +158,6 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-    </task>
-    <task id="LOCAL-00034" summary="Association in Java">
-      <option name="closed" value="true" />
-      <created>1697905882217</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1697905882218</updated>
     </task>
     <task id="LOCAL-00035" summary="Inheritance in Java">
       <option name="closed" value="true" />
@@ -549,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699790957595</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Map Classes in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699810807058</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1699810807058</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="abstract and final class and method in java" />
     <MESSAGE value="Exception Handling" />
     <MESSAGE value="try catch block in Exception Handling (Java)" />
     <MESSAGE value="Design Patterns" />
@@ -624,7 +625,8 @@
     <MESSAGE value="Changes files in Collection Framework" />
     <MESSAGE value="Map in Collection Framework" />
     <MESSAGE value="File names change" />
-    <option name="LAST_COMMIT_MESSAGE" value="File names change" />
+    <MESSAGE value="Map Classes in Collection Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map Classes in Collection Framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
