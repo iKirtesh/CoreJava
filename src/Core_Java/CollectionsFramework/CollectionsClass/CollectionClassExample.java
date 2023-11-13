@@ -1,7 +1,7 @@
-package Core_Java.CollectionsFramework.CollectionSorting;
+package Core_Java.CollectionsFramework.CollectionsClass;
 
 import java.util.*;
-public class CollectionClass {
+public class CollectionClassExample {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         list.add(1);
