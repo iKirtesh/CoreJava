@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Generics in Core Java">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/Example/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/GenericClass.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Generic Class with its example in Generic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Generics/WithGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Generics/WithGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Generics/Example/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Generics/Example/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,15 +140,7 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-      <workItem from="1699908880834" duration="8501000" />
-    </task>
-    <task id="LOCAL-00043" summary="abstract and final class and method in java">
-      <option name="closed" value="true" />
-      <created>1698175087619</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1698175087619</updated>
+      <workItem from="1699908880834" duration="9518000" />
     </task>
     <task id="LOCAL-00044" summary="Exception Handling">
       <option name="closed" value="true" />
@@ -536,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699972124585</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Generic Class with its example in Generic">
+      <option name="closed" value="true" />
+      <created>1699989032865</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1699989032865</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +585,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Factory Method class in Design Patterns" />
     <MESSAGE value="Abstract Factory class in Design Patterns" />
     <MESSAGE value="Builder in Design Patterns" />
     <MESSAGE value="Prototype in Design Patterns" />
@@ -612,7 +609,8 @@
     <MESSAGE value="List Interface of CopyOnWriteArrayList in Collection Framework" />
     <MESSAGE value="Packages" />
     <MESSAGE value="Generics in Core Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics in Core Java" />
+    <MESSAGE value="Generic Class with its example in Generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Class with its example in Generic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
