@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Generic Class with its example in Generic">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/Example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/GenericMethod.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Generic Method with its example in Generic">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/TypeParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Generics/Example/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Generics/Example/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,15 +141,7 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-      <workItem from="1699908880834" duration="14250000" />
-    </task>
-    <task id="LOCAL-00045" summary="try catch block in Exception Handling (Java)">
-      <option name="closed" value="true" />
-      <created>1698234982927</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1698234982927</updated>
+      <workItem from="1699908880834" duration="16479000" />
     </task>
     <task id="LOCAL-00046" summary="try catch block in Exception Handling (Java)">
       <option name="closed" value="true" />
@@ -536,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699990020715</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Generic Method with its example in Generic">
+      <option name="closed" value="true" />
+      <created>1699995173483</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1699995173483</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +586,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Abstract Factory class in Design Patterns" />
     <MESSAGE value="Builder in Design Patterns" />
     <MESSAGE value="Prototype in Design Patterns" />
     <MESSAGE value="Moved files /folders to Creational Patterns Folder in Design Patterns" />
@@ -612,10 +610,18 @@
     <MESSAGE value="Packages" />
     <MESSAGE value="Generics in Core Java" />
     <MESSAGE value="Generic Class with its example in Generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic Class with its example in Generic" />
+    <MESSAGE value="Generic Method with its example in Generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Method with its example in Generic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/GenericMethod.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception" />
         <breakpoint enabled="true" type="javascript-exception" />
