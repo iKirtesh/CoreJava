@@ -6,7 +6,8 @@ package Core_Java.Generics.TypesOfGenerics;
  * - T super Number: T can be any superclass of Number
  */
 
-public class BoundedTypeParameter {
+
+public class BoundedTypeParameterMethod{
     public static <T extends Number> void printArray(T[] array) {
         for (T element : array) {
             System.out.println(element);
@@ -15,9 +16,12 @@ public class BoundedTypeParameter {
 
     public static void main(String[] args) {
         Integer[] intArray = {1, 2, 3, 4, 5};
-        Double[] doubleArray = {1.1, 2.2, 3.3, 4.4, 5.5};
-
         printArray(intArray);
+
+        Double[] doubleArray = {1.1, 2.2, 3.3, 4.4, 5.5};
         printArray(doubleArray);
+
+        // String[] stringArray = {"hello", "world"};
+        // printArray(stringArray); // Compile-time error - String is not a subclass of Number
     }
 }
