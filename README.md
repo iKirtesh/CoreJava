@@ -48,7 +48,7 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 
 ### Java Advanced
 
-- ❎ Generics
+- ✅ Generics
 - ❎ Reflection
 - ❎ Annotations
 - ❎ JavaFX
