@@ -1,4 +1,4 @@
-package Core_Java.Generics.Example;
+package AdvanceJava.Generics.Example;
 
 // Generic Method
 

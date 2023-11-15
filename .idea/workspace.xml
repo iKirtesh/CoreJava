@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Wildcard in Generic">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/Example/WildCardExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/FileHandling/FileOpenNClose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,15 +141,7 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-      <workItem from="1699908880834" duration="21257000" />
-    </task>
-    <task id="LOCAL-00049" summary="try catch block in Exception Handling (Java)">
-      <option name="closed" value="true" />
-      <created>1698298466275</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1698298466276</updated>
+      <workItem from="1699908880834" duration="22274000" />
     </task>
     <task id="LOCAL-00050" summary="try catch block in Exception Handling (Java)">
       <option name="closed" value="true" />
@@ -535,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700030843473</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Wildcard in Generic">
+      <option name="closed" value="true" />
+      <created>1700057760659</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1700057760659</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

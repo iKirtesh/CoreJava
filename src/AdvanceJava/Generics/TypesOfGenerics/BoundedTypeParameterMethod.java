@@ -1,4 +1,4 @@
-package Core_Java.Generics.TypesOfGenerics;
+package AdvanceJava.Generics.TypesOfGenerics;
 
 /** BoundedTypeParameter: Generic method with bounded type parameter
  * - T: type parameter (can be any identifier) - can be used as a type in the body of the method

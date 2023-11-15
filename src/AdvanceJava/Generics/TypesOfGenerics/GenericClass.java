@@ -1,4 +1,4 @@
-package Core_Java.Generics.TypesOfGenerics;
+package AdvanceJava.Generics.TypesOfGenerics;
 
 class Box<T> {
     private T t;

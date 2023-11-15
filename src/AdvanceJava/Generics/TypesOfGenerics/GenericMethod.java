@@ -1,4 +1,4 @@
-package Core_Java.Generics.TypesOfGenerics;
+package AdvanceJava.Generics.TypesOfGenerics;
 
 public class GenericMethod {
     public static <T> void printArray(T[] array) {

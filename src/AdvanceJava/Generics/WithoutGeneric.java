@@ -1,4 +1,4 @@
-package Core_Java.Generics;
+package AdvanceJava.Generics;
 
 import java.util.ArrayList;
 import java.util.Iterator;

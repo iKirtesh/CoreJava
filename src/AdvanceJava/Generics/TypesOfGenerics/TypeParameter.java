@@ -1,4 +1,4 @@
-package Core_Java.Generics.TypesOfGenerics;
+package AdvanceJava.Generics.TypesOfGenerics;
 
 /**
  * TypeParameter: Generic class with type parameter

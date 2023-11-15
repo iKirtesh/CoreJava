@@ -1,4 +1,4 @@
-package Core_Java.Generics.TypesOfGenerics;
+package AdvanceJava.Generics.TypesOfGenerics;
 
 public class UpperBoundWildCard<T> {
     public <T extends Number> void print(T[] array) {
