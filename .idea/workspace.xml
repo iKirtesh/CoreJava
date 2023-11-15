@@ -4,9 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Wildcard in Generic">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/FileHandling/FileOpenNClose.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/AddRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/AddRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/CollectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/CollectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/ArrayList/ArrayListConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/ArrayList/ArrayListConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/ArrayList/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/ArrayList/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/ArrayList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/ArrayList/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/ArrayList/IterationList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/ArrayList/IterationList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/ArrayList/RetainAllMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/ArrayList/RetainAllMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/ArrayList/SubListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/ArrayList/SubListOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/LinkedList/LinkedListConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/LinkedList/LinkedListConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/LinkedList/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/LinkedList/LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/Stack/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/Stack/StackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ListInterface/Vector/Vectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ListInterface/Vector/Vectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/ObjectArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/ObjectArrayClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/PositionalAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/PositionalAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/ArraysQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/QueueInterface/ArraysQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/Dqueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/QueueInterface/Dqueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/LinkedBlockingQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/QueueInterface/LinkedBlockingQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/PrioritysQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/QueueInterface/PrioritysQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/QueueInterface/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/QueueInterface/SynchronousQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/QueueInterface/SynchronousQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/SetInterface/DemoStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/SetInterface/DemoStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/SetInterface/HashSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/SetInterface/HashSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/SetInterface/LinkedHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/SetInterface/LinkedHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Collection/SetInterface/TreeSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Collection/SetInterface/TreeSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionsClass/CollectionClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/CollectionsClass/CollectionClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionsClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/CollectionsClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/CollectionsClass/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/CollectionsClass/StudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/ConcurrentHashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/ConcurrentHashMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/DemoStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/DemoStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/HashMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/IdentityHashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/IdentityHashMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/LinkedHashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/LinkedHashMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/TreeMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/TreeMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Map/WeakHashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Map/WeakHashMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Properties/PropertiesClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Properties/PropertiesClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/CollectionsFramework/Properties/PropertiesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/CollectionsFramework/Properties/PropertiesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ArithmeticException1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/ArithmeticException1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ArithmeticException2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/ArithmeticException2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ArithmeticException3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/ArithmeticException3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ArrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/ArrayException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/SuperClassException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/SuperClassException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/ThrowsBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/ThrowsBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/finallytryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/finallytryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/ExceptionHandling/tryBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/ExceptionHandling/tryBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/FileHandling/FileOpenNClose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/FileOpenNClose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Abstraction_Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Abstraction_Encapsulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Association/Enrollment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Association/Enrollment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Association/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Association/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/ClassMembers/ClassField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/ClassMembers/ClassField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/ClassMembers/ClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/ClassMembers/ClassMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/ClassMembers/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/ClassMembers/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/ClassMembers/Practice/AreaOfRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/ClassMembers/Practice/AreaOfRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/ClassMembers/Practice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/ClassMembers/Practice/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/ClassMembers/Practice/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/ClassMembers/Practice/Student1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Composition/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Constuctor/Constuct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Constuctor/Constuct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Constuctor/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Constuctor/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Constuctor/GetterSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Constuctor/GetterSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Constuctor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Constuctor/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Date/Calenderd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Date/Calenderd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Date/Dated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Date/Dated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Date/LocalDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Date/LocalDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Enum/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Enum/Days.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Enum/Dayss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Enum/Dayss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Enum/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Enum/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Final/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Final/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Final/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Final/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Final/FinalField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Final/FinalField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Final/FinalMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Final/FinalMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Inheritance/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Inheritance/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/Equals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/Equals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/Equals/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/Equals/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/Example/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/Example/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/MethodOverriding/toString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/MethodOverriding/toString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/OOPs/Static/StaticField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/OOPs/Static/StaticField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Packages/BreakIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/Packages/BreakIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Packages/StringTokenize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/Packages/StringTokenize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,15 +226,7 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-      <workItem from="1699908880834" duration="22274000" />
-    </task>
-    <task id="LOCAL-00050" summary="try catch block in Exception Handling (Java)">
-      <option name="closed" value="true" />
-      <created>1698324810953</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1698324810965</updated>
+      <workItem from="1699908880834" duration="22595000" />
     </task>
     <task id="LOCAL-00051" summary="Design Patterns">
       <option name="closed" value="true" />
@@ -535,7 +612,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700057760659</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java">
+      <option name="closed" value="true" />
+      <created>1700058586627</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1700058586627</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Multition Pattern in Design Patterns" />
     <MESSAGE value="README.md Updated" />
     <MESSAGE value="Adapter Pattern in Design Patterns" />
     <MESSAGE value="Changes in Folders" />
@@ -611,13 +695,14 @@
     <MESSAGE value="Parameter Type and Bounded Type Parameter in Generic" />
     <MESSAGE value="Bounded Type Parameter : Method and CLass in Generic" />
     <MESSAGE value="Wildcard in Generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wildcard in Generic" />
+    <MESSAGE value="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/GenericMethod.java</url>
+          <url>file://$PROJECT_DIR$/src/AdvanceJava/Generics/TypesOfGenerics/GenericMethod.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
