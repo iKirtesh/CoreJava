@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Bounded Type Parameter : Method and CLass in Generic">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/LowerBoundWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/UpperBoundWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/WildCardUnbound.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Wildcard in Generic">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/Example/WildCardExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,15 +141,7 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-      <workItem from="1699908880834" duration="19456000" />
-    </task>
-    <task id="LOCAL-00048" summary="try catch block in Exception Handling (Java)">
-      <option name="closed" value="true" />
-      <created>1698272860080</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1698272860080</updated>
+      <workItem from="1699908880834" duration="21257000" />
     </task>
     <task id="LOCAL-00049" summary="try catch block in Exception Handling (Java)">
       <option name="closed" value="true" />
@@ -538,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700027311320</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Wildcard in Generic">
+      <option name="closed" value="true" />
+      <created>1700030843473</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1700030843473</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +586,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Moved files /folders to Creational Patterns Folder in Design Patterns" />
     <MESSAGE value="Multition Pattern in Design Patterns" />
     <MESSAGE value="README.md Updated" />
     <MESSAGE value="Adapter Pattern in Design Patterns" />
@@ -614,7 +610,8 @@
     <MESSAGE value="Generic Method with its example in Generic" />
     <MESSAGE value="Parameter Type and Bounded Type Parameter in Generic" />
     <MESSAGE value="Bounded Type Parameter : Method and CLass in Generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bounded Type Parameter : Method and CLass in Generic" />
+    <MESSAGE value="Wildcard in Generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wildcard in Generic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
