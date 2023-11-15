@@ -8,8 +8,8 @@ package Core_Java.Generics.TypesOfGenerics;
 
 class NumberBox<T extends Number> {
     public void printArray(T[] array) {
-        for (T element : array) {
-            System.out.println(element);
+        for (T i : array) {
+            System.out.println(i);
         }
     }
 }

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Parameter Type and Bounded Type Parameter in Generic">
-      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameterClass.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Bounded Type Parameter : Method and CLass in Generic">
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/LowerBoundWildCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/UpperBoundWildCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/WildCardUnbound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameterMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core_Java/Generics/TypesOfGenerics/BoundedTypeParameterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,15 +144,7 @@
       <workItem from="1699537599470" duration="3742000" />
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
-      <workItem from="1699908880834" duration="16961000" />
-    </task>
-    <task id="LOCAL-00047" summary="try catch block in Exception Handling (Java)">
-      <option name="closed" value="true" />
-      <created>1698269876839</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1698269876839</updated>
+      <workItem from="1699908880834" duration="19456000" />
     </task>
     <task id="LOCAL-00048" summary="try catch block in Exception Handling (Java)">
       <option name="closed" value="true" />
@@ -536,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700026826667</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Bounded Type Parameter : Method and CLass in Generic">
+      <option name="closed" value="true" />
+      <created>1700027311320</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1700027311320</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +589,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Prototype in Design Patterns" />
     <MESSAGE value="Moved files /folders to Creational Patterns Folder in Design Patterns" />
     <MESSAGE value="Multition Pattern in Design Patterns" />
     <MESSAGE value="README.md Updated" />
@@ -612,7 +613,8 @@
     <MESSAGE value="Generic Class with its example in Generic" />
     <MESSAGE value="Generic Method with its example in Generic" />
     <MESSAGE value="Parameter Type and Bounded Type Parameter in Generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parameter Type and Bounded Type Parameter in Generic" />
+    <MESSAGE value="Bounded Type Parameter : Method and CLass in Generic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bounded Type Parameter : Method and CLass in Generic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
