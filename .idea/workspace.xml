@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="changed package from Core_Java to CoreJava">
-      <change afterPath="$PROJECT_DIR$/FileEditor.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/FileEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/WriteReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/WriteReadFile.txt" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="File Handling in Core Java">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Buffered/BufferInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Buffered/BufferWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Buffered/ReadingData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/BufferReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/BufferWriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/DataRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/DataWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/ReadingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/ReadingData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Byte/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Character/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Character/FileWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWrite/Character/ReadingData.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/FileHandling/FileOpenNClose.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,32 +83,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java Full Stack Development/Course Learning/JDK/src/Core_Java/Generics/TypesOfGenerics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Programming/Java Full Stack Development/Course Learning/JDK/src/Core_Java/Generics/TypesOfGenerics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Core_Java.ExceptionHandling" />
@@ -146,23 +156,7 @@
       <workItem from="1699623091054" duration="9265000" />
       <workItem from="1699703355187" duration="2463000" />
       <workItem from="1699908880834" duration="26558000" />
-      <workItem from="1700076947655" duration="2226000" />
-    </task>
-    <task id="LOCAL-00052" summary="array">
-      <option name="closed" value="true" />
-      <created>1698510900362</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1698510900362</updated>
-    </task>
-    <task id="LOCAL-00053" summary="array">
-      <option name="closed" value="true" />
-      <created>1698575272032</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1698575272032</updated>
+      <workItem from="1700076947655" duration="5269000" />
     </task>
     <task id="LOCAL-00054" summary="array">
       <option name="closed" value="true" />
@@ -540,7 +534,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700058696767</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="File Handling in Core Java">
+      <option name="closed" value="true" />
+      <created>1700113711393</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1700113711394</updated>
+    </task>
+    <task id="LOCAL-00102" summary="File Handling in Core Java">
+      <option name="closed" value="true" />
+      <created>1700113729771</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1700113729771</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +601,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Adapter Pattern in Design Patterns" />
     <MESSAGE value="Changes in Folders" />
     <MESSAGE value="Introduction to Collection Framework" />
     <MESSAGE value="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element" />
@@ -616,7 +625,8 @@
     <MESSAGE value="Wildcard in Generic" />
     <MESSAGE value="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java" />
     <MESSAGE value="changed package from Core_Java to CoreJava" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed package from Core_Java to CoreJava" />
+    <MESSAGE value="File Handling in Core Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="File Handling in Core Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
