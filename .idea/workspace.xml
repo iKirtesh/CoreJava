@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Different types Of Read and Write file using streams like Byte, Character and Buffered">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWriteFile/Buffered/BufferInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWriteFile/Buffered/BufferInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,15 +145,9 @@
       <workItem from="1699908880834" duration="26558000" />
       <workItem from="1700076947655" duration="6100000" />
       <workItem from="1700200107948" duration="738000" />
-      <workItem from="1700234389794" duration="1000" />
-    </task>
-    <task id="LOCAL-00055" summary="array">
-      <option name="closed" value="true" />
-      <created>1698686818309</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1698686818310</updated>
+      <workItem from="1700234389794" duration="742000" />
+      <workItem from="1700244605796" duration="28000" />
+      <workItem from="1700246126159" duration="16000" />
     </task>
     <task id="LOCAL-00056" summary="array">
       <option name="closed" value="true" />
@@ -538,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700158090713</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Different types Of Read and Write file using streams like Byte, Character and Buffered">
+      <option name="closed" value="true" />
+      <created>1700234406161</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1700234406161</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
