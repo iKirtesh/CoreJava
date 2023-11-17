@@ -32,19 +32,7 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 - ✅ File Handling 
 - ✅ Collections (Lists, Sets, Maps)
 - ❎ Multithreading
-- ❎ Java 8 Features (Lambda Expressions, Streams)
-- ❎ Java 9 Features (Modules, JShell)
-- ❎ Java 10 Features (Local Variable Type Inference)
-- ❎ Java 11 Features (String Methods, Collection Methods)
-- ❎ Java 12 Features (Switch Expressions)
-- ❎ Java 13 Features (Text Blocks)
-- ❎ Java 14 Features (Records)
-- ❎ Java 15 Features (Text Blocks, Sealed Classes)
-- ❎ Java 16 Features (Records, Pattern Matching)
-- ❎ Java 17 Features (Sealed Classes, Pattern Matching, Records)
-- ❎ Java 18 Features (Records, Pattern Matching, Sealed Classes)
-- ❎ Java 19 Features (Records, Sealed Classes, Pattern Matching)
-
+- ❎ Java 8 Features 
 
 ### Java Advanced
 
