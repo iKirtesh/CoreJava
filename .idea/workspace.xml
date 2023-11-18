@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Different types Of Read and Write file using streams like Byte, Character and Buffered">
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/Socket/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/Socket/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWriteFile/Buffered/BufferInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava/FileHandling/Stream/ReadWriteFile/Buffered/BufferInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,15 +148,8 @@
       <workItem from="1700200107948" duration="738000" />
       <workItem from="1700234389794" duration="742000" />
       <workItem from="1700244605796" duration="28000" />
-      <workItem from="1700246126159" duration="16000" />
-    </task>
-    <task id="LOCAL-00056" summary="array">
-      <option name="closed" value="true" />
-      <created>1698768172412</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1698768172412</updated>
+      <workItem from="1700246126159" duration="94000" />
+      <workItem from="1700258111418" duration="1436000" />
     </task>
     <task id="LOCAL-00057" summary="Singleton Class in Design Patterns">
       <option name="closed" value="true" />
@@ -541,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700234406161</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Different types Of Read and Write file using streams like Byte, Character and Buffered">
+      <option name="closed" value="true" />
+      <created>1700246154311</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1700246154312</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +583,18 @@
               </option>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
