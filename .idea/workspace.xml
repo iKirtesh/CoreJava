@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Different types Of Read and Write file using streams like Byte, Character and Buffered">
-      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/Socket/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/Socket/Server.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Socket Program of Server and Client in Java Network Programming">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/BridgePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/DrawAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Java &amp; DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java &amp; DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Pizza.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,15 +155,8 @@
       <workItem from="1700234389794" duration="742000" />
       <workItem from="1700244605796" duration="28000" />
       <workItem from="1700246126159" duration="94000" />
-      <workItem from="1700258111418" duration="1436000" />
-    </task>
-    <task id="LOCAL-00057" summary="Singleton Class in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699077003906</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1699077003908</updated>
+      <workItem from="1700258111418" duration="3834000" />
+      <workItem from="1700334430771" duration="2163000" />
     </task>
     <task id="LOCAL-00058" summary="fixup! Singleton Class in Design Patterns">
       <option name="closed" value="true" />
@@ -543,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700246154312</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Socket Program of Server and Client in Java Network Programming">
+      <option name="closed" value="true" />
+      <created>1700315708802</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1700315708802</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +612,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Introduction to Collection Framework" />
     <MESSAGE value="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element" />
     <MESSAGE value="ArrayList's Files Moved to ArrayList Folder in Collection Framework" />
     <MESSAGE value="LinkedList in Collection Framework" />
@@ -630,7 +636,8 @@
     <MESSAGE value="changed package from Core_Java to CoreJava" />
     <MESSAGE value="File Handling in Core Java" />
     <MESSAGE value="Different types Of Read and Write file using streams like Byte, Character and Buffered" />
-    <option name="LAST_COMMIT_MESSAGE" value="Different types Of Read and Write file using streams like Byte, Character and Buffered" />
+    <MESSAGE value="Socket Program of Server and Client in Java Network Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Socket Program of Server and Client in Java Network Programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

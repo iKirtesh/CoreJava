@@ -20,10 +20,13 @@
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/src/Core_Java" />
         <option value="$MODULE_DIR$/src/DSA" />
         <option value="$MODULE_DIR$/src/Introduction_Java" />
         <option value="$MODULE_DIR$/src/Design_Patterns" />
+        <option value="$MODULE_DIR$/src/CoreJava" />
+        <option value="$MODULE_DIR$/src/NetworkProgramming" />
+        <option value="$MODULE_DIR$/src/AdvanceJava" />
+        <option value="$MODULE_DIR$/src/Array" />
       </list>
     </option>
   </component>
