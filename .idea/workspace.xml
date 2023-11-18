@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Socket Program of Server and Client in Java Network Programming">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/BridgePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/DrawAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/GreenCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/RedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Shape.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Bridge Pattern of Structural in Design Pattern">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Composite/Company.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core Java &amp; DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java &amp; DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Bridge/Pizza.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,15 +149,7 @@
       <workItem from="1700244605796" duration="28000" />
       <workItem from="1700246126159" duration="94000" />
       <workItem from="1700258111418" duration="3834000" />
-      <workItem from="1700334430771" duration="2163000" />
-    </task>
-    <task id="LOCAL-00058" summary="fixup! Singleton Class in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699077067351</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1699077067351</updated>
+      <workItem from="1700334430771" duration="5180000" />
     </task>
     <task id="LOCAL-00059" summary="Factory Method class in Design Patterns">
       <option name="closed" value="true" />
@@ -550,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700315708802</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Bridge Pattern of Structural in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700341169801</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1700341169802</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +605,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element" />
     <MESSAGE value="ArrayList's Files Moved to ArrayList Folder in Collection Framework" />
     <MESSAGE value="LinkedList in Collection Framework" />
     <MESSAGE value="Vector and Stack in Collection Framework" />
@@ -637,7 +629,8 @@
     <MESSAGE value="File Handling in Core Java" />
     <MESSAGE value="Different types Of Read and Write file using streams like Byte, Character and Buffered" />
     <MESSAGE value="Socket Program of Server and Client in Java Network Programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Socket Program of Server and Client in Java Network Programming" />
+    <MESSAGE value="Bridge Pattern of Structural in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bridge Pattern of Structural in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
