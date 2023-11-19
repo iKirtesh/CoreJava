@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Bridge Pattern of Structural in Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Composite/Company.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Composite Pattern of Structural in Design Pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,15 +148,7 @@
       <workItem from="1700244605796" duration="28000" />
       <workItem from="1700246126159" duration="94000" />
       <workItem from="1700258111418" duration="3834000" />
-      <workItem from="1700334430771" duration="5180000" />
-    </task>
-    <task id="LOCAL-00059" summary="Factory Method class in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699079966980</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1699079966980</updated>
+      <workItem from="1700334430771" duration="7099000" />
     </task>
     <task id="LOCAL-00060" summary="Abstract Factory class in Design Patterns">
       <option name="closed" value="true" />
@@ -543,7 +534,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700341169802</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Composite Pattern of Structural in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700343571937</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1700343571937</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +604,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ArrayList's Files Moved to ArrayList Folder in Collection Framework" />
     <MESSAGE value="LinkedList in Collection Framework" />
     <MESSAGE value="Vector and Stack in Collection Framework" />
     <MESSAGE value="Set Interface in Collection Framework" />
@@ -630,7 +628,8 @@
     <MESSAGE value="Different types Of Read and Write file using streams like Byte, Character and Buffered" />
     <MESSAGE value="Socket Program of Server and Client in Java Network Programming" />
     <MESSAGE value="Bridge Pattern of Structural in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bridge Pattern of Structural in Design Pattern" />
+    <MESSAGE value="Composite Pattern of Structural in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composite Pattern of Structural in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
