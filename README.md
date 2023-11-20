@@ -50,23 +50,12 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 - ❎ Java Servlets
 - ❎ Java Server Faces (JSF)
 - ❎ Java Message Service (JMS)
-- ❎ Java API for RESTful Web Services (JAX-RS)
-- ❎ Java API for XML Web Services (JAX-WS)
-- ❎ Java API for XML Binding (JAXB)
-- ❎ Java API for JSON Processing (JSON-P)
-- ❎ Java API for JSON Binding (JSON-B)
-- ❎ Java API for WebSocket (JAX-WS)
-- ❎ Java API for XML Registries (JAX-R)
-- ❎ Java API for XML-Based RPC (JAX-RPC)
-- ❎ Java API for XML Processing (JAXP)
-- ❎ Java API for XML Messaging (JAXM)
-- ❎ Java API for XML Parsing (JAXP)
-
+- ❎ Java APIs
 
 ### Design Patterns
 
 - ✅ Creational Patterns (Singleton, Factory, Builder)
-- ❎ Structural Patterns (Adapter, Decorator, Facade)
+- ✅ Structural Patterns (Adapter, Decorator, Facade)
 - ❎ Behavioral Patterns (Observer, Strategy, Template Method)
 - ❎ Architectural Patterns (MVC, MVP, MVVM)
 - ❎ Concurrency Patterns (Active Object, Monitor Object, Thread Pool)
@@ -130,4 +119,4 @@ My primary goal is to become proficient in Java programming and gain a solid und
 
 ---
 
-Feel free to update this README.md file regularly to reflect your progress and keep track of your learning journey. Happy learning! 😊📚👨‍💻
+Feel free to update this repository regularly to reflect your progress and keep track of your learning journey. Happy learning! 😊📚👨‍💻
