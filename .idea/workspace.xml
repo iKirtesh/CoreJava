@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Decorator Pattern of Structural in Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/Facade/FacadePattern.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Facade Pattern of Structural in Design Pattern">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyWeight/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/FlyWeight/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Structural_Patterns/ProxyPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,14 +154,7 @@
       <workItem from="1700334430771" duration="7099000" />
       <workItem from="1700407229915" duration="1304000" />
       <workItem from="1700467995170" duration="1779000" />
-    </task>
-    <task id="LOCAL-00061" summary="Builder in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699180870653</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1699180870654</updated>
+      <workItem from="1700470969392" duration="3582000" />
     </task>
     <task id="LOCAL-00062" summary="Prototype in Design Patterns">
       <option name="closed" value="true" />
@@ -545,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700407406117</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Facade Pattern of Structural in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700471122866</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1700471122866</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Vector and Stack in Collection Framework" />
     <MESSAGE value="Set Interface in Collection Framework" />
     <MESSAGE value="Changes files in Collection Framework" />
     <MESSAGE value="Map in Collection Framework" />
@@ -632,7 +634,8 @@
     <MESSAGE value="Bridge Pattern of Structural in Design Pattern" />
     <MESSAGE value="Composite Pattern of Structural in Design Pattern" />
     <MESSAGE value="Decorator Pattern of Structural in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorator Pattern of Structural in Design Pattern" />
+    <MESSAGE value="Facade Pattern of Structural in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Facade Pattern of Structural in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
