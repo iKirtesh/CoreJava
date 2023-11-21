@@ -154,15 +154,7 @@
       <workItem from="1700334430771" duration="7099000" />
       <workItem from="1700407229915" duration="1304000" />
       <workItem from="1700467995170" duration="1779000" />
-      <workItem from="1700470969392" duration="3582000" />
-    </task>
-    <task id="LOCAL-00062" summary="Prototype in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699180885924</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1699180885924</updated>
+      <workItem from="1700470969392" duration="12975000" />
     </task>
     <task id="LOCAL-00063" summary="Prototype in Design Patterns">
       <option name="closed" value="true" />
@@ -548,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700471122866</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Flyweight and Proxy Pattern of Structural in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700507538518</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1700507538518</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,8 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Set Interface in Collection Framework" />
-    <MESSAGE value="Changes files in Collection Framework" />
     <MESSAGE value="Map in Collection Framework" />
     <MESSAGE value="File names change" />
     <MESSAGE value="Map Classes in Collection Framework" />
@@ -635,7 +633,9 @@
     <MESSAGE value="Composite Pattern of Structural in Design Pattern" />
     <MESSAGE value="Decorator Pattern of Structural in Design Pattern" />
     <MESSAGE value="Facade Pattern of Structural in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Facade Pattern of Structural in Design Pattern" />
+    <MESSAGE value="Flyweight and Proxy Pattern of Structural in Design Pattern" />
+    <MESSAGE value="Chain of Responsibility Pattern of Behavioral in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chain of Responsibility Pattern of Behavioral in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
