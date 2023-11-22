@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Iterator Pattern of Behavioral in Design Pattern">
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Observer Pattern of Behavioral in Design Pattern">
       <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Interpreter/InterpreterPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Observer/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,15 +154,7 @@
       <workItem from="1700467995170" duration="1779000" />
       <workItem from="1700470969392" duration="18328000" />
       <workItem from="1700677567406" duration="260000" />
-      <workItem from="1700677866126" duration="2592000" />
-    </task>
-    <task id="LOCAL-00067" summary="Adapter Pattern in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699213136621</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1699213136622</updated>
+      <workItem from="1700677866126" duration="2978000" />
     </task>
     <task id="LOCAL-00068" summary="Adapter Pattern in Design Patterns">
       <option name="closed" value="true" />
@@ -549,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700680288505</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Observer Pattern of Behavioral in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700680941770</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1700680941770</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Map Classes in Collection Framework" />
     <MESSAGE value="Queue Interface Classes in Collection Framework" />
     <MESSAGE value="*Properties Class in Collection Framework" />
     <MESSAGE value="Collections Class in Collection Framework" />
@@ -636,7 +634,8 @@
     <MESSAGE value="Chain of Responsibility Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Command Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Iterator Pattern of Behavioral in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator Pattern of Behavioral in Design Pattern" />
+    <MESSAGE value="Observer Pattern of Behavioral in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Observer Pattern of Behavioral in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
