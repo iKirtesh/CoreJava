@@ -56,5 +56,8 @@ class Main {
         textEditorContext.save();
         textEditor.setText("Hello World Again");
         textEditorContext.save();
+        textEditorContext.setState(new TextEditorState(textEditor));
+        textEditorContext.save();
+
     }
 }
