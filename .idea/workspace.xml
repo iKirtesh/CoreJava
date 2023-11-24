@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Star Pattern of Behavioral in Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Strategy/Main.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Strategy Pattern of Behavioral in Design Pattern">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Visitor/ShoppingCartClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,23 +154,7 @@
       <workItem from="1700467995170" duration="1779000" />
       <workItem from="1700470969392" duration="18328000" />
       <workItem from="1700677567406" duration="260000" />
-      <workItem from="1700677866126" duration="13270000" />
-    </task>
-    <task id="LOCAL-00075" summary="ArrayList's Files Moved to ArrayList Folder in Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699754132467</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1699754132467</updated>
-    </task>
-    <task id="LOCAL-00076" summary="LinkedList in Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699754153178</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1699754153178</updated>
+      <workItem from="1700677866126" duration="14004000" />
     </task>
     <task id="LOCAL-00077" summary="Vector and Stack in Collection Framework">
       <option name="closed" value="true" />
@@ -549,7 +532,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700820271490</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Memento Pattern of Behavioral in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700826330187</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1700826330187</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Strategy Pattern of Behavioral in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700826343775</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1700826343775</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,8 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Generics in Core Java" />
-    <MESSAGE value="Generic Class with its example in Generic" />
     <MESSAGE value="Generic Method with its example in Generic" />
     <MESSAGE value="Parameter Type and Bounded Type Parameter in Generic" />
     <MESSAGE value="Bounded Type Parameter : Method and CLass in Generic" />
@@ -636,7 +633,9 @@
     <MESSAGE value="State Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Template Method Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Star Pattern of Behavioral in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Star Pattern of Behavioral in Design Pattern" />
+    <MESSAGE value="Memento Pattern of Behavioral in Design Pattern" />
+    <MESSAGE value="Strategy Pattern of Behavioral in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strategy Pattern of Behavioral in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
