@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Template Method Pattern of Behavioral in Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/TemplateMethod/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/TemplateMethod/Test.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Star Pattern of Behavioral in Design Pattern">
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Memento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/Strategy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/State/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/State/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,23 +155,7 @@
       <workItem from="1700467995170" duration="1779000" />
       <workItem from="1700470969392" duration="18328000" />
       <workItem from="1700677567406" duration="260000" />
-      <workItem from="1700677866126" duration="9665000" />
-    </task>
-    <task id="LOCAL-00073" summary="Introduction to Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699679567533</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1699679567533</updated>
-    </task>
-    <task id="LOCAL-00074" summary="List Interface in Collection Framework&#10;- PositionalAccess methods&#10;- AddRemove Element">
-      <option name="closed" value="true" />
-      <created>1699679631607</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1699679631607</updated>
+      <workItem from="1700677866126" duration="13270000" />
     </task>
     <task id="LOCAL-00075" summary="ArrayList's Files Moved to ArrayList Folder in Collection Framework">
       <option name="closed" value="true" />
@@ -550,7 +533,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700816329822</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Template Method Pattern of Behavioral in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700820260991</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1700820260991</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Star Pattern of Behavioral in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700820271490</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1700820271490</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +611,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Packages" />
     <MESSAGE value="Generics in Core Java" />
     <MESSAGE value="Generic Class with its example in Generic" />
     <MESSAGE value="Generic Method with its example in Generic" />
@@ -637,7 +635,8 @@
     <MESSAGE value="Mediator Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="State Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Template Method Pattern of Behavioral in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template Method Pattern of Behavioral in Design Pattern" />
+    <MESSAGE value="Star Pattern of Behavioral in Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Star Pattern of Behavioral in Design Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
