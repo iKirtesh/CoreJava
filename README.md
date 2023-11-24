@@ -56,7 +56,7 @@ My journey in learning Java Core and Data Structures & Algorithms. It serves as 
 
 - ✅ Creational Patterns (Singleton, Factory, Builder)
 - ✅ Structural Patterns (Adapter, Decorator, Facade)
-- ❎ Behavioral Patterns (Observer, Strategy, Template Method)
+- ✅ Behavioral Patterns (Observer, Strategy, Template Method)
 - ❎ Architectural Patterns (MVC, MVP, MVVM)
 - ❎ Concurrency Patterns (Active Object, Monitor Object, Thread Pool)
 - ❎ J2EE Patterns (Business Delegate, Composite Entity, Data Access Object, Front Controller, Intercepting Filter, Service Locator, Transfer Object)
