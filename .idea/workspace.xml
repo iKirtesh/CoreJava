@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="State Pattern of Behavioral in Design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/State/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Patterns/Behavioral_Patterns/TemplateMethod/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,15 +154,7 @@
       <workItem from="1700467995170" duration="1779000" />
       <workItem from="1700470969392" duration="18328000" />
       <workItem from="1700677567406" duration="260000" />
-      <workItem from="1700677866126" duration="6749000" />
-    </task>
-    <task id="LOCAL-00071" summary="Adapter Pattern in Design Patterns">
-      <option name="closed" value="true" />
-      <created>1699621265374</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1699621265375</updated>
+      <workItem from="1700677866126" duration="7814000" />
     </task>
     <task id="LOCAL-00072" summary="Changes in Folders">
       <option name="closed" value="true" />
@@ -548,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700742747769</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="State Pattern of Behavioral in Design Pattern">
+      <option name="closed" value="true" />
+      <created>1700747001152</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1700747001152</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
