@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Visitor Pattern of Behavioral in Design Pattern" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Deleted file">
+      <change afterPath="$PROJECT_DIR$/src/DSA/LinkedList/Singly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,15 +154,7 @@
       <workItem from="1700467995170" duration="1779000" />
       <workItem from="1700470969392" duration="18328000" />
       <workItem from="1700677567406" duration="260000" />
-      <workItem from="1700677866126" duration="14757000" />
-    </task>
-    <task id="LOCAL-00078" summary="Set Interface in Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699787360332</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1699787360333</updated>
+      <workItem from="1700677866126" duration="16447000" />
     </task>
     <task id="LOCAL-00079" summary="Set Interface in Collection Framework">
       <option name="closed" value="true" />
@@ -545,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700827071239</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Deleted file">
+      <option name="closed" value="true" />
+      <created>1700853051543</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1700853051543</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Parameter Type and Bounded Type Parameter in Generic" />
     <MESSAGE value="Bounded Type Parameter : Method and CLass in Generic" />
     <MESSAGE value="Wildcard in Generic" />
     <MESSAGE value="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java" />
@@ -632,7 +634,8 @@
     <MESSAGE value="Memento Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Strategy Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Visitor Pattern of Behavioral in Design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Visitor Pattern of Behavioral in Design Pattern" />
+    <MESSAGE value="Deleted file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
