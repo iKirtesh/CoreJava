@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Singly Linked List in Data Structure">
-      <change afterPath="$PROJECT_DIR$/src/DSA/LinkedList/Double/Double.java" afterDir="false" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Double Linked List in Data Structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA/LinkedList/Singly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/LinkedList/Singly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/LinkedList/Single/Singly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/LinkedList/Single/Singly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,23 +155,7 @@
       <workItem from="1700470969392" duration="18328000" />
       <workItem from="1700677567406" duration="260000" />
       <workItem from="1700677866126" duration="17467000" />
-      <workItem from="1701102904707" duration="371000" />
-    </task>
-    <task id="LOCAL-00080" summary="Changes files in Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699790465294</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1699790465294</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Map in Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699790585544</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1699790585544</updated>
+      <workItem from="1701102904707" duration="3721000" />
     </task>
     <task id="LOCAL-00082" summary="File names change">
       <option name="closed" value="true" />
@@ -550,7 +533,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701022129751</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Singly Linked List in Data Structure">
+      <option name="closed" value="true" />
+      <created>1701103315922</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1701103315922</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Double Linked List in Data Structure">
+      <option name="closed" value="true" />
+      <created>1701103335024</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1701103335024</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +611,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Wildcard in Generic" />
     <MESSAGE value="Moved Generics Folder from Core Java To Advance Java - As Generics is a topic of advance java" />
     <MESSAGE value="changed package from Core_Java to CoreJava" />
     <MESSAGE value="File Handling in Core Java" />
@@ -637,7 +635,8 @@
     <MESSAGE value="Visitor Pattern of Behavioral in Design Pattern" />
     <MESSAGE value="Deleted file" />
     <MESSAGE value="Singly Linked List in Data Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singly Linked List in Data Structure" />
+    <MESSAGE value="Double Linked List in Data Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Double Linked List in Data Structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

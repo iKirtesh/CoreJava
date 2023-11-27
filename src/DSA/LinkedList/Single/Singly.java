@@ -4,7 +4,7 @@ package DSA.LinkedList.Single;
 
 class Node {
     int data;
-    DSA.LinkedList.Double.Node next;
+    Node next;
 
     Node(int data) {
         this.data = data;
@@ -12,41 +12,41 @@ class Node {
 }
 
 class SinglyLinkedList {
-    DSA.LinkedList.Double.Node head;
+    Node head;
 
     void insertAtBeginning(int data) {
-        DSA.LinkedList.Double.Node newNode = new DSA.LinkedList.Double.Node(data);
+        Node newNode = new Node(data);
         newNode.next = head;
         head = newNode;
     }
 
     void insertAtEnd(int data) {
-        DSA.LinkedList.Double.Node newNode = new DSA.LinkedList.Double.Node(data);
+        Node newNode = new Node(data);
         if (head == null) {
             head = newNode;
             return;
         }
 
-        DSA.LinkedList.Double.Node temp = head;
+        Node temp = head;
         while (temp.next != null)
             temp = temp.next;
         temp.next = newNode;
     }
 
-    void insertAfter(DSA.LinkedList.Double.Node prevNode, int data) {
+    void insertAfter(Node prevNode, int data) {
         if (prevNode == null) {
             System.out.println("Previous node cannot be null");
             return;
         }
 
-        DSA.LinkedList.Double.Node newNode = new DSA.LinkedList.Double.Node(data);
+        Node newNode = new Node(data);
         newNode.next = prevNode.next;
         prevNode.next = newNode;
     }
 
     void deleteNode(int key) {
-        DSA.LinkedList.Double.Node temp = head;
-        DSA.LinkedList.Double.Node prev = null;
+        Node temp = head;
+        Node prev = null;
 
         if (temp != null && temp.data == key) {
             head = temp.next;
@@ -68,7 +68,8 @@ class SinglyLinkedList {
         if (head == null)
             return;
 
-        DSA.LinkedList.Double.Node temp = head;
+        Node temp = head;
+
         if (position == 0) {
             head = temp.next;
             return;
@@ -80,16 +81,22 @@ class SinglyLinkedList {
         if (temp == null || temp.next == null)
             return;
 
-        DSA.LinkedList.Double.Node next = temp.next.next;
+        Node next = temp.next.next;
         temp.next = next;
     }
 
-    void deleteList() {
-        head = null;
+    boolean search(int key) {
+        Node temp = head;
+        while (temp != null) {
+            if (temp.data == key)
+                return true;
+            temp = temp.next;
+        }
+        return false;
     }
 
     int getCount() {
-        DSA.LinkedList.Double.Node temp = head;
+        Node temp = head;
         int count = 0;
         while (temp != null) {
             count++;
@@ -99,24 +106,18 @@ class SinglyLinkedList {
         return count;
     }
 
-    boolean search(int key) {
-        DSA.LinkedList.Double.Node temp = head;
-        while (temp != null) {
-            if (temp.data == key)
-                return true;
-            temp = temp.next;
-        }
-
-        return false;
+    void deleteList() {
+        head = null;
     }
 
     void printList() {
-        DSA.LinkedList.Double.Node temp = head;
+        Node temp = head;
         while (temp != null) {
-            System.out.print(temp.data + " -> ");
+            System.out.print(temp.data + " ");
             temp = temp.next;
         }
-        System.out.println("null");
+
+        System.out.println();
     }
 }
 
