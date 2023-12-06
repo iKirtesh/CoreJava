@@ -2,7 +2,7 @@
 
 My journey in learning Java Core and Data Structures & Algorithms. It serves as a record of my progress.
 
-![Progress](https://progress-bar.dev/36/?scale=100&title=Completion)
+![Progress](https://progress-bar.dev/45/?scale=100&title=Completion)
 
 
 ## Learning Progress
