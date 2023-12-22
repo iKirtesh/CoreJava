@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Searching Algorithms">
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/AlphabetVowelOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/BasicOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/GCDOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/NumPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_Java/Examples/ReverseOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Basic Warm Up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,14 +165,7 @@
       <workItem from="1703189568454" duration="3000" />
       <workItem from="1703191589303" duration="5000" />
       <workItem from="1703195248582" duration="2803000" />
-    </task>
-    <task id="LOCAL-00086" summary="*Properties Class in Collection Framework">
-      <option name="closed" value="true" />
-      <created>1699886507881</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1699886507882</updated>
+      <workItem from="1703238908571" duration="56000" />
     </task>
     <task id="LOCAL-00087" summary="Collections Class in Collection Framework">
       <option name="closed" value="true" />
@@ -568,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702666411229</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="Basic Warm Up">
+      <option name="closed" value="true" />
+      <created>1703238942049</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1703238942050</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Socket Program of Server and Client in Java Network Programming" />
     <MESSAGE value="Bridge Pattern of Structural in Design Pattern" />
     <MESSAGE value="Composite Pattern of Structural in Design Pattern" />
     <MESSAGE value="Decorator Pattern of Structural in Design Pattern" />
@@ -655,7 +645,8 @@
     <MESSAGE value="Interpreter Design Pattern Example" />
     <MESSAGE value="Bubble Sort in Sorting Algorithm" />
     <MESSAGE value="Searching Algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Searching Algorithms" />
+    <MESSAGE value="Basic Warm Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Warm Up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
