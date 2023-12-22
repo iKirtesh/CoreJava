@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Basic Warm Up" />
+    <list default="true" id="6b8c3099-0337-42fb-8df0-86bd5084039b" name="Changes" comment="Interpreter Design Pattern Example">
+      <change afterPath="$PROJECT_DIR$/src/DSA/SortAlgorithm/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,18 +157,31 @@
       <workItem from="1700677567406" duration="260000" />
       <workItem from="1700677866126" duration="17467000" />
       <workItem from="1701102904707" duration="7296000" />
-      <workItem from="1701276217261" duration="1048000" />
-      <workItem from="1701458218049" duration="84000" />
-      <workItem from="1702310468362" duration="110000" />
-      <workItem from="1702569395861" duration="1417000" />
-      <workItem from="1702662753886" duration="6429000" />
-      <workItem from="1703026502924" duration="2870000" />
-      <workItem from="1703045399566" duration="11000" />
-      <workItem from="1703189510083" duration="41000" />
-      <workItem from="1703189568454" duration="3000" />
-      <workItem from="1703191589303" duration="5000" />
-      <workItem from="1703195248582" duration="2803000" />
-      <workItem from="1703238908571" duration="56000" />
+      <workItem from="1701276217261" duration="366000" />
+    </task>
+    <task id="LOCAL-00084" summary="Queue Interface Classes in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699855754395</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1699855754395</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Queue Interface  Framework">
+      <option name="closed" value="true" />
+      <created>1699862685923</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1699862685923</updated>
+    </task>
+    <task id="LOCAL-00086" summary="*Properties Class in Collection Framework">
+      <option name="closed" value="true" />
+      <created>1699886507881</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1699886507882</updated>
     </task>
     <task id="LOCAL-00087" summary="Collections Class in Collection Framework">
       <option name="closed" value="true" />
@@ -535,31 +551,7 @@
       <option name="project" value="LOCAL" />
       <updated>1701187592461</updated>
     </task>
-    <task id="LOCAL-00133" summary="Bubble Sort in Sorting Algorithm">
-      <option name="closed" value="true" />
-      <created>1701276674887</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1701276674902</updated>
-    </task>
-    <task id="LOCAL-00134" summary="Searching Algorithms">
-      <option name="closed" value="true" />
-      <created>1702666411229</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1702666411229</updated>
-    </task>
-    <task id="LOCAL-00135" summary="Basic Warm Up">
-      <option name="closed" value="true" />
-      <created>1703238942049</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1703238942050</updated>
-    </task>
-    <option name="localTasksCounter" value="136" />
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,6 +613,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="File Handling in Core Java" />
+    <MESSAGE value="Different types Of Read and Write file using streams like Byte, Character and Buffered" />
+    <MESSAGE value="Socket Program of Server and Client in Java Network Programming" />
     <MESSAGE value="Bridge Pattern of Structural in Design Pattern" />
     <MESSAGE value="Composite Pattern of Structural in Design Pattern" />
     <MESSAGE value="Decorator Pattern of Structural in Design Pattern" />
@@ -643,10 +638,7 @@
     <MESSAGE value="Double Linked List in Data Structure" />
     <MESSAGE value="Singly Linked List changes in Data Structure" />
     <MESSAGE value="Interpreter Design Pattern Example" />
-    <MESSAGE value="Bubble Sort in Sorting Algorithm" />
-    <MESSAGE value="Searching Algorithms" />
-    <MESSAGE value="Basic Warm Up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Warm Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interpreter Design Pattern Example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
